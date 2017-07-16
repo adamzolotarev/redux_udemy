@@ -1,4 +1,4 @@
-import asios from 'axios';
+import axios from 'axios';
 
 export const FETCH_POSTS = 'fetch_posts';
 
